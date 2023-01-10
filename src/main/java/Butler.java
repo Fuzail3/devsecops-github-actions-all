@@ -5,7 +5,7 @@ public class Butler {
 
     public void welcome() {
 
-        // https://app.snyk.io/vuln/SNYK-JAVA-COMMONSCOLLECTIONS-472711
+        // https://app.snyk.io/vuln/SNYK-JAVA-COMMONSCOLLECTIONS-472711-test
         // Should appear as Potentially Reachable
         ArrayList<String> list1 = new ArrayList<String>();
         list1.add("Hello");
